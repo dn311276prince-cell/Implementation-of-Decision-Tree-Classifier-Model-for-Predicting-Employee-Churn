@@ -114,12 +114,7 @@ Classification Report:
    macro avg       0.25      0.50      0.33         2
 weighted avg       0.25      0.50      0.33         2
 
-/usr/local/lib/python3.12/dist-packages/sklearn/metrics/_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
-/usr/local/lib/python3.12/dist-packages/sklearn/metrics/_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
-/usr/local/lib/python3.12/dist-packages/sklearn/metrics/_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+<Figure size 2000x1000 with 1 Axes><img width="1570" height="790" alt="image" src="https://github.com/user-attachments/assets/2a9301aa-0d97-4605-b833-3cdf94a630f9" />
 
 
 ## Result:
